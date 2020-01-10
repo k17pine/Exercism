@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.xml
+*.json
+*.xml
+*.iml
+*.xml
